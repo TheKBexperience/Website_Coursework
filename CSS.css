@@ -1,0 +1,154 @@
+body {
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+    font-family: 'Montserrat', sans-serif;
+
+    /* Content */
+    width: 1300px;
+
+    /* Padding */
+    padding-left: 250px;
+    padding-right: 250px;
+
+    /* Background */
+    background-image: url("TheKBexperience/3026575-backdrop-wallpaper.jpg");
+    background-repeat: repeat-y;
+
+    /* Font Colour */
+    color: whitesmoke;
+
+}
+
+header {
+    /* Colourings */
+    background-color: royalblue;
+
+    /* Content */
+    height: 170px;
+    width: 1300px;
+
+    /* Padding*/
+    padding-left: 30px;
+    padding-top: 10px;
+
+    /* Border */
+    border-color: lightskyblue;
+    border-style: solid;
+    border-width: 5px;
+
+    /* Padding */
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    /* Float */
+    float: left;
+
+    /* Border */
+    border-color: royalblue;
+    border-style: solid;
+    border-width: 5px;
+
+    /* Padding */
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    /* Style */
+    list-style-position: inside;
+}
+
+p {
+    font-size: 20px;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+a:link {
+    color: whitesmoke;
+}
+a:visited {
+    color: lightgray;
+}
+a:hover{
+    color: yellow;
+}
+
+#Cig {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
+#GameGrumps {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
+#Reddit {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
+#WoW {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
+#BBC {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
+#GG_Header {
+    visibility: hidden;
+}
+
+#RD_Header {
+    visibility: hidden;
+}
+#WoW_Header {
+    visibility: hidden;
+}
+
+#BBC_Header {
+    visibility: hidden;
+}
+
+#RGU {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
+#USC {
+    float: left;
+    margin: 0 10px 0 0;
+}
+
+#Gym {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
+#CR {
+    text-align: center;
+}
+
+#CD {
+    float:right;
+    margin: 0 0 10px 10px;
+}
+
+#Dash {
+    clear: right;
+}
